@@ -30,7 +30,7 @@
 │   └── geomdan_merged.csv              # 테스트 데이터
 ├── features/
 |   └── add_CPI.ipynb                   # 물가지수 변수 추가
-|   └── add_발표후경과년수.ipynb        # 신도시 발표 후 경과년수 변수 추가
+|   └── add_발표후경과년수.ipynb         # 신도시 발표 후 경과년수 변수 추가
 ├── models/
 |   ├── Lasso/
 │   |   └── lasso_validation.ipynb      # lasso 검증 코드
