@@ -49,20 +49,14 @@
 │   |   └── lasso_validation.ipynb      # lasso 검증 코드
 │   |   └── lasso_verify_geumgang.ipynb # 금강펜테리움 센트럴파크 연분할 검증 코드
 │   |   └── lasso_whatif_geomdan.ipynb  # 파밀리아 엘리프 시나리오 예측(What-If 분석)
-│   |   └── random.ipynb                # 무작위 lasso 검증 코드
-│   |   └── year_split.ipynb            # 연분할 lasso 검증 코드
 |   ├── Ridge/
 |   |   └── ridge_validation.ipynb      # Ridge 검증 코드
 |   |   └── ridge_verify_geumgang.ipynb # 금강펜테리움 센트럴파크 연분할 검증 코드
 |   |   └── ridge_whatif_geomdan.ipynb  # 파밀리아 엘리프 시나리오 예측(What-If 분석)
-│   |   └── random.ipynb                # 무작위 Ridge 검증 코드
-│   |   └── year_split.ipynb            # 연분할 Ridge 검증 코드
 |   ├── RandomForest/
 │   |   └── rf_validation.ipynb      # RF 검증 코드
 │   |   └── rf_verify_geumgang.ipynb # 금강펜테리움 센트럴파크 연분할 검증 코드
 │   |   └── rf_whatif_geomdan.ipynb  # 파밀리아 엘리프 시나리오 예측(What-If 분석)
-│   |   └── random.ipynb             # 무작위 RF 검증 코드
-│   |   └── year_split.ipynb         # 연분할 RF 검증 코드
 └── README.md
 ```
 
@@ -166,8 +160,8 @@
 | 구분 | 금액 |
 |------|------|
 | 실제 거래금액 | 52,093만원 (5.2억) |
-| 예측 거래금액 | 54,703만원 (5.5억) |
-| 오차율 | 5.0% |
+| 예측 거래금액 | 52,746만원 (5.27억) |
+| 오차율 | 1.3% |
 
 #### What-if 시나리오 분석
 > 인천 검단 2027년 완공예정인 파밀리에 엘리프(AA32블록, 84㎡ 중층 기준)에 대해 시나리오별 예측을 수행함
