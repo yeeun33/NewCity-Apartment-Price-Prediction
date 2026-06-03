@@ -53,6 +53,10 @@
 |   |   └── ridge_validation.ipynb      # Ridge 검증 코드
 |   |   └── ridge_verify_geumgang.ipynb # 금강펜테리움 센트럴파크 연분할 검증 코드
 |   |   └── ridge_whatif_geomdan.ipynb  # 파밀리아 엘리프 시나리오 예측(What-If 분석)
+|   ├── LinearRegression/
+│   |   └── linearRegression_validation.ipynb      # LinearRegression 검증 코드
+│   |   └── linearRegression_verify_geumgang.ipynb # 금강펜테리움 센트럴파크 연분할 검증 코드
+│   |   └── linearRegression_whatif_geomdan.ipynb  # 파밀리아 엘리프 시나리오 예측(What-If 분석)
 |   ├── RandomForest/
 │   |   └── rf_validation.ipynb      # RF 검증 코드
 │   |   └── rf_verify_geumgang.ipynb # 금강펜테리움 센트럴파크 연분할 검증 코드
@@ -89,7 +93,7 @@
 | 모델 | 유형 | 담당 |
 |------|------|------|
 | RandomForest | 회귀 | 신채희 |
-| Linear Regression | 회귀 | 최소연 |
+| LinearRegression | 회귀 | 최소연 |
 | Ridge | 회귀 | 문인선 |
 | Lasso | 회귀 | 박소정 |
  
